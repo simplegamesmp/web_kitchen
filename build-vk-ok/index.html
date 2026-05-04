@@ -1,0 +1,15 @@
+<!doctype html><html lang="en" oncontextmenu="return false"><head><meta charset="UTF-8"/><link rel="shortcut icon" href="favicon.ico" type="image/x-icon"><link rel="stylesheet" href="./css/index.css"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="keywords" content="game,puzzle"/><meta http-equiv="X-UA-Compatible" content="ie=edge"/><meta name="description" content="Puzzle:The path to color"/><title>Puzzle:The path to color</title></head><body oncontextmenu="return false"><div id="gameBlock"></div><div id="tap"></div><div id="turn"></div><script>window.CURRENT_GAME_PLATFORM = 'vk';</script><script>(function() {
+                const params = new URLSearchParams(window.location.search);
+                
+                const platform = params.get('vk_platform') || '';
+                const client = params.get('vk_client') || '';
+                
+                // Проверяем через vk_client (основной способ) и vk_platform (фоллбэк)
+                if (client === 'ok' || platform.includes('_ok')){
+                    window.CURRENT_GAME_PLATFORM = 'ok';
+                } else {
+                    window.CURRENT_GAME_PLATFORM = 'vk';
+                }
+                
+                console.log('Detected platform:', window.CURRENT_GAME_PLATFORM);
+            })();</script><script src="build1777877327199.js"></script></body></html>
