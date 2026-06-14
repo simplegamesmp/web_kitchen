@@ -1939,7 +1939,7 @@
         "ru": "Хрустящий левантийский салат с яркой лимонной заправкой.\n\n💡 Факт: секрет фаттуша — использование вчерашней лепёшки, которую поджаривают до хруста, чтобы она не размокла в салате.",
         "en": "Crispy Levantine salad with a bright lemon dressing.\n\n💡 Fact: the secret of fattoush is using day-old pita bread, toasted until crisp so it doesn't get soggy in the salad."
       },
-      "active": true
+      "active": false
     },
     {
       "key": "udon",
@@ -1958,7 +1958,7 @@
         "ru": "Сытный японский суп с толстой пшеничной лапшой в насыщенном бульоне.\n\n💡 Факт: по легенде, рецепт удона привёз в Японию буддийский монах из Китая в 8 веке нашей эры.",
         "en": "Hearty Japanese soup with thick wheat noodles in a rich broth.\n\n💡 Fact: legend says the recipe for udon was brought to Japan by a Buddhist monk from China in the 8th century."
       },
-      "active": true
+      "active": false
     },
     {
       "key": "empanada",
@@ -1976,7 +1976,7 @@
         "ru": "Сочный пирожок с хрустящим тестом и сытной мясной начинкой.\n\n💡 Факт: первое упоминание эмпанады найдено в каталанской кулинарной книге 1520 года.",
         "en": "Juicy pastry with crispy dough and a hearty meat filling.\n\n💡 Fact: the first mention of empanada was found in a Catalan cookbook from 1520."
       },
-      "active": true
+      "active": false
     },
     {
       "key": "alfredo",
@@ -1995,7 +1995,7 @@
         "ru": "Классическая итальянская паста в невероятно нежном сливочно-сырном соусе.\n\n💡 Факт: рецепт придумал римский ресторатор Альфредо ди Лелио в начале 20 века, чтобы помочь своей жене справиться с токсикозом.",
         "en": "Classic Italian pasta in an incredibly smooth cream and cheese sauce.\n\n💡 Fact: the recipe was invented by Roman restaurateur Alfredo di Lelio in the early 20th century to help his wife cope with morning sickness."
       },
-      "active": true
+      "active": false
     },
     {
       "key": "osso_buco",
@@ -2014,7 +2014,7 @@
         "ru": "Изысканное рагу из тушёного мяса с овощами в винном соусе.\n\n💡 Факт: название переводится как «кость с отверстием» — главная ценность блюда это нежный костный мозг внутри.",
         "en": "Exquisite stew of braised meat with vegetables in a wine sauce.\n\n💡 Fact: the name translates to \"bone with a hole\" — the main prize of the dish is the tender marrow inskeye."
       },
-      "active": true
+      "active": false
     },
     {
       "key": "carpaccio",
@@ -2032,7 +2032,7 @@
         "ru": "Изысканная закуска из тончайших ломтиков сырого мяса с маслом и лимоном.\n\n💡 Факт: блюдо назвали в честь художника Витторе Карпаччо из-за характерного сочетания красного и белого цветов, преобладавшего в его картинах.",
         "en": "Exquisite appetizer of paper-thin slices of raw meat with oil and lemon.\n\n💡 Fact: the dish was named after painter Vittore Carpaccio due to the characteristic red and white colors prevalent in his paintings."
       },
-      "active": true
+      "active": false
     },
     {
       "key": "parmigiana",
@@ -2050,7 +2050,7 @@
         "ru": "Сочная запеканка из слоёв баклажанов, томатов и тянущегося сыра.\n\n💡 Факт: несмотря на название, историки до сих пор спорят, возникло ли это блюдо в Сицилии или в Неаполе.",
         "en": "Juicy casserole of layered eggplants, tomatoes, and stretchy cheese.\n\n Fact: despite the name, historians still debate whether this dish originated in Sicily or Naples."
       },
-      "active": true
+      "active": false
     },
     {
       "key": "ravioli",
@@ -2068,7 +2068,7 @@
         "ru": "Нежные итальянские пельмени с богатой сырной начинкой.\n\n💡 Факт: равиоли упоминаются в личных письмах итальянского торговца Франческо Датини ещё в 14 веке.",
         "en": "Tender Italian dumplings with a rich cheese filling.\n\n💡 Fact: ravioli are mentioned in the personal letters of Italian merchant Francesco Datini dating back to the 14th century."
       },
-      "active": true
+      "active": false
     },
     {
       "key": "gnocchi",
@@ -2086,7 +2086,7 @@
         "ru": "Мягкие и воздушные картофельные клёцки, тающие во рту.\n\n💡 Факт: изначально ньокки делали из панировочных сухарей. Картофель стал основным ингредиентом только после его завоза из Америки.",
         "en": "Soft and airy potato dumplings that melt in your mouth.\n\n Fact: gnocchi were originally made from breadcrumbs. Potato became the main ingredient only after it was brought from the Americas."
       },
-      "active": true
+      "active": false
     },
     {
       "key": "pesto",
@@ -2105,7 +2105,7 @@
         "ru": "Яркий зелёный соус с насыщенным ароматом базилика и орехов.\n\n💡 Факт: настоящий генуэзский песто делают только в мраморной ступке деревянным пестиком, чтобы базилик не окислялся от металла.",
         "en": "Vibrant green sauce with a rich aroma of basil and nuts.\n\n💡 Fact: authentic Genovese pesto is made only in a marble mortar with a wooden pestle to prevent the basil from oxkeyizing against metal."
       },
-      "active": true
+      "active": false
     },
     {
       "key": "arrabbiata",
