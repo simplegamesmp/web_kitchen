@@ -24,8 +24,7 @@ html, body {
 #gameBlock canvas {
     max-width: 100% !important;
     max-height: 100% !important;
-    display: block;
-    margin: 0 auto;
+
 }
 #turn{
 	width:100%;
