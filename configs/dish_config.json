@@ -2123,7 +2123,7 @@
         "ru": "Пикантная паста в остром томатном соусе, которая бодрит с первой вилки.\n\n💡 Факт: «аррабиата» в переводе с итальянского означает «злая» — из-за жгучего эффекта перца чили.",
         "en": "Zesty pasta in a spicy tomato sauce that wakes you up from the first bite.\n\n💡 Fact: \"arrabbiata\" translates from Italian as \"angry\" — due to the fiery kick of the chili peppers."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "biscotti",
@@ -2141,7 +2141,7 @@
         "ru": "Хрустящее итальянское печенье с орехами, идеальное для макания в кофе.\n\n💡 Факт: название означает «дважды испечённый». Это делало печенье очень сухим и позволяло хранить его месяцами.",
         "en": "Crispy Italian cookie with nuts, perfect for dipping in coffee.\n\n Fact: the name means \"twice-baked\". This made the cookies very dry, allowing them to be stored for months."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "coleslaw",
@@ -2159,7 +2159,7 @@
         "ru": "Хрустящий и освежающий салат из капусты с пикантной заправкой.\n\n💡 Факт: название происходит от голландского слова «koolsla», что буквально означает «капустный салат».",
         "en": "Crispy and refreshing cabbage salad with a zesty dressing.\n\n💡 Fact: the name comes from the Dutch word \"koolsla\", which literally means \"cabbage salad\"."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "golubtsy",
@@ -2179,7 +2179,7 @@
         "ru": "Сытные рулетики из капустных листьев с мясом и рисом в густом соусе.\n\n💡 Факт: аналоги голубцов есть по всему миру (долма, сарма), но восточнославянский вариант уникален использованием листьев белокочанной капусты.",
         "en": "Hearty rolls of cabbage leaves filled with meat and rice in a thick sauce.\n\n💡 Fact: while analogs exist worldwkeye (dolma, sarma), the East Slavic version uniquely uses white cabbage leaves."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "vinaigrette",
@@ -2199,7 +2199,7 @@
         "ru": "Классический зимний салат с ярким цветом и лёгкой кислинкой.\n\n💡 Факт: салат назван в честь французской заправки «винегрет» (уксус и масло), которая изначально использовалась для этого блюда.",
         "en": "Classic winter salad with a vibrant color and a light tangy kick.\n\n💡 Fact: the salad is named after the French dressing \"vinaigrette\" (vinegar and oil) that was originally used for it."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "shi",
@@ -2219,7 +2219,7 @@
         "ru": "Традиционный наваристый суп, основа русского обеденного стола.\n\n💡 Факт: щи упоминаются в летописях с 10 века. Поговорка «Щи да каша — пища наша» отражает их вековую важность.",
         "en": "Traditional rich soup, the cornerstone of the Russian dinner table.\n\n💡 Fact: shchi have been mentioned in chronicles since the 10th century. The proverb \"Shchi and kasha are our food\" reflects their centuries-old importance."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "ukha",
@@ -2239,7 +2239,7 @@
         "ru": "Прозрачный и ароматный рыбный бульон с овощами и зеленью.\n\n💡 Факт: вплоть до 17 века словом «уха» называли любой суп или бульон, и лишь позже оно закрепилось исключительно за рыбным.",
         "en": "Clear and aromatic fish broth with vegetables and herbs.\n\n Fact: until the 17th century, the word \"ukha\" referred to any soup or broth, and only later became exclusively associated with fish."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "svekolnik",
@@ -2259,7 +2259,7 @@
         "ru": "Яркий холодный суп, спасающий от летней жары.\n\n💡 Факт: в некоторых регионах свекольник подают с кубиками пищевого льда прямо в тарелке для максимального охлаждения.",
         "en": "Vibrant cold soup that saves you from the summer heat.\n\n💡 Fact: in some regions, svekolnik is served with edible ice cubes right in the bowl for maximum cooling."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "shurpa",
@@ -2279,7 +2279,7 @@
         "ru": "Наваристый восточный суп с крупными кусками мяса и овощей.\n\n💡 Факт: настоящую шурпу традиционно готовят в чугунном казане на открытом огне, чтобы бульон приобрёл лёгкий аромат дымка.",
         "en": "Rich Eastern soup with large chunks of meat and vegetables.\n\n💡 Fact: authentic shurpa is traditionally cooked in a cast-iron cauldron over an open fire to give the broth a subtle smoky aroma."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "olivier",
@@ -2299,7 +2299,7 @@
         "ru": "Главный символ праздничного стола, знакомый с детства.\n\n💡 Факт: салат изобрёл повар Люсьен Оливье в Москве в 1860-х. Оригинальный рецепт с рябчиками и раковыми шейками он так и не раскрыл до смерти.",
         "en": "The ultimate symbol of the holkeyay table, familiar since childhood.\n\n💡 Fact: the salad was invented by chef Lucien Olivier in Moscow in the 1860s. He never revealed the original recipe featuring grouse and crayfish tails."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "julienne",
