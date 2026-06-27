@@ -2319,7 +2319,7 @@
         "ru": "Горячая закуска с грибами и курицей под румяной сырной шапкой.\n\n💡 Факт: название происходит от французского способа нарезки овощей тонкой соломкой, хотя само блюдо в кокотнице — это скорее русско-французская адаптация.",
         "en": "Hot appetizer with mushrooms and chicken under a golden cheese crust.\n\n💡 Fact: the name comes from the French cutting technique (thin strips), though the baked dish in a cocotte is more of a Russo-French adaptation."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "azu",
@@ -2339,7 +2339,7 @@
         "ru": "Сытное татарское блюдо с тушёным мясом и картофелем в пикантном соусе.\n\n💡 Факт: главная изюминка азу — добавление солёных огурцов прямо в томатную подливу, что создаёт уникальный кисло-солёный вкус.",
         "en": "Hearty Tatar dish with braised meat and potatoes in a zesty sauce.\n\n💡 Fact: the highlight of azu is adding pickled cucumbers directly into the tomato gravy, creating a unique sweet-and-sour flavor."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "chakhokhbili",
@@ -2359,7 +2359,7 @@
         "ru": "Ароматное грузинское рагу из птицы в густом томатном соусе с зеленью.\n\n💡 Факт: изначально чахохбили готовили из фазана. Название происходит от грузинского слова «хохоби», означающего эту птицу.",
         "en": "Aromatic Georgian stew of poultry in a thick tomato sauce with herbs.\n\n💡 Fact: chakhokhbili was originally made with pheasant. The name comes from the Georgian word \"khokhobi\", meaning pheasant."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "berry_milkshake",
@@ -2376,7 +2376,7 @@
         "ru": "Густой, освежающий и невероятно ягодный коктейль.\n\n💡 Факт: первые милкшейки в 1880-х годах были крепкими алкогольными напитками на основе яиц и виски, и лишь позже стали детским десертом.",
         "en": "Thick, refreshing, and incredibly berry-packed cocktail.\n\n💡 Fact: the first milkshakes in the 1880s were strong alcoholic drinks based on eggs and whiskey, only later becoming a kkey-friendly dessert."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "shakshuka",
@@ -2393,7 +2393,7 @@
         "ru": "Сытный завтрак с яйцами, томлёнными в пряном овощном соусе.\n\n💡 Факт: шакшука популярна по всему Ближнему Востоку и Северной Африке. Считается, что название происходит от арабского слова, означающего «смесь».",
         "en": "Hearty breakfast with eggs poached in a spiced vegetable sauce.\n\n💡 Fact: shakshuka is popular across the Mkeydle East and North Africa. The name is believed to come from an Arabic word meaning \"a mixture\"."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "fondue",
@@ -2409,7 +2409,7 @@
         "ru": "Ритуал расплавленного сыра, объединяющий людей за одним столом.\n\n💡 Факт: фондю возникло в Швейцарии в 18 веке как гениальный способ использовать старый засохший сыр и чёрствый хлеб во время долгих зим.",
         "en": "A ritual of melted cheese that brings people together at one table.\n\n💡 Fact: fondue originated in Switzerland in the 18th century as a brilliant way to use up aged cheese and stale bread during long winters."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "stew",
@@ -2428,7 +2428,7 @@
         "ru": "Густое мясное рагу с овощами, томленное до мягкости. Сытное и согревающее блюдо.\n\n💡 Факт: стью — одно из древнейших мясных блюд, его готовили еще кельты в глиняных горшках на открытом огне.",
         "en": "A thick meat stew with vegetables, simmered until tender. A hearty and warming dish.\n\n💡 Fact: stew is one of the oldest meat dishes, prepared by the Celts in clay pots over an open fire."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "salmorejo",
@@ -2446,7 +2446,7 @@
         "ru": "Холодный крем-суп из томатов с хлебом, родом из Андалусии. Густой и бархатистый.\n\n💡 Факт: сальморехо появился раньше гаспачо и изначально готовился БЕЗ томатов — до того, как их привезли из Америки.",
         "en": "A cold cream soup of tomatoes with bread, originating from Andalusia. Thick and velvety.\n\n💡 Fact: salmorejo appeared before gazpacho and was originally made WITHOUT tomatoes — before they were brought from America."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "manchego",
@@ -2463,7 +2463,7 @@
         "ru": "Знаменитый испанский сыр из овечьего молока с ореховым вкусом.\n\n💡 Факт: настоящий манчего делают только в Ла-Манче — том самом регионе, где Дон Кихот сражался с ветряными мельницами.",
         "en": "Famous Spanish cheese made from sheep's milk with a nutty flavor.\n\n💡 Fact: authentic manchego is made only in La Mancha — the very region where Don Quixote fought windmills."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "gyudon",
@@ -2481,7 +2481,7 @@
         "ru": "Японская рисовая чаша с тонко нарезанной говядиной и луком в сладком соевом соусе.\n\n💡 Факт: гюдон стал популярен в Японии в конце 19 века как быстрая и дешевая еда для рабочих.",
         "en": "Japanese rice bowl with thinly sliced beef and onion in sweet soy sauce.\n\n💡 Fact: gyudon became popular in Japan in the late 19th century as fast and cheap food for workers."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "kugel",
