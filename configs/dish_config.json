@@ -2730,6 +2730,96 @@
         "en": "Kebab - juicy pieces of meat on wooden skewers, grilled to golden perfection, served on a flat plate with flatbread, fresh vegetables and herbs. An aromatic dish with a smoky flavor.\n\n💡 Fact: Kebab originated in the Middle East over 1000 years ago. The word comes from the Arabic \"kabāb\" - \"fried meat\". Originally it was cooked by warriors over a campfire during military campaigns."
       },
       "active": false
-    }
+    },
+      {
+        "key": "polvoron",
+        "ingredients": ["flour", "sugar", "butter", "milk", "cinnamon"],
+        "name": { "ru": "Полворон", "en": "Polvorón" },
+        "description": {
+          "ru": "Испанское песочное печенье, которое буквально тает во рту.\n\n💡 Факт: название происходит от испанского 'polvo' (пыль) — печенье такое рассыпчатое, что превращается в пыль при укусе.",
+          "en": "Spanish shortbread cookie that literally melts in your mouth.\n\n💡 Fact: the name comes from the Spanish 'polvo' (dust) — the cookie is so crumbly that it turns to dust when bitten."
+        },
+        "active": false
+      },
+      {
+        "key": "escalope",
+        "ingredients": ["meat", "flour", "egg", "oil", "salt", "pepper"],
+        "name": { "ru": "Эскалоп", "en": "Escalope" },
+        "description": {
+          "ru": "Тонкий ломтик мяса, обжаренный до золотистой корочки. Классика французской кухни.\n\n💡 Факт: слово 'эскалоп' происходит от французского 'escalope' (ломтик) — мясо нарезают очень тонко и отбивают.",
+          "en": "Thin slice of meat fried to golden perfection. A classic of French cuisine.\n\n💡 Fact: the word 'escalope' comes from the French 'escalope' (slice) — the meat is cut very thin and pounded."
+        },
+        "active": false
+      },
+      {
+        "key": "ceviche",
+        "ingredients": ["fish", "lemon", "onion", "pepper", "herbs", "salt"],
+        "name": { "ru": "Севиче", "en": "Ceviche" },
+        "description": {
+          "ru": "Перуанское блюдо из сырой рыбы, маринованной в соке лайма.\n\n💡 Факт: севиче готовят без огня — кислота лайма «готовит» рыбу, делая ее белее и плотнее.",
+          "en": "Peruvian dish of raw fish marinated in lime juice.\n\n💡 Fact: ceviche is cooked without fire — lime acid 'cooks' the fish, making it whiter and denser."
+        },
+        "active": false
+      },
+      {
+        "key": "pulpo",
+        "ingredients": ["squkey", "potato", "paprika", "oil", "garlic", "herbs"],
+        "name": { "ru": "Пульпо", "en": "Pulpo" },
+        "description": {
+          "ru": "Испанское блюдо из морепродуктов с картофелем, паприкой и оливковым маслом.\n\n💡 Факт: пульпо а гальега — самое известное блюдо Галисии, его готовят в медном котле.",
+          "en": "Spanish seafood dish with potato, paprika and olive oil.\n\n💡 Fact: Pulpo a la Gallega is the most famous dish of Galicia, cooked in a copper pot."
+        },
+        "active": false
+      },
+      {
+        "key": "panini",
+        "ingredients": ["bread", "cheese", "meat", "tomato", "lettuce", "basil"],
+        "name": { "ru": "Панини", "en": "Panini" },
+        "description": {
+          "ru": "Итальянский горячий сэндвич, обжаренный на гриле до хрустящей корочки.\n\n💡 Факт: слово 'панини' в итальянском означает просто 'бутерброды', но во всем мире так называют именно горячие сэндвичи.",
+          "en": "Italian hot sandwich grilled to crispy perfection.\n\n💡 Fact: the word 'panini' in Italian simply means 'sandwiches', but worldwide it refers to hot grilled sandwiches."
+        },
+        "active": false
+      },
+      {
+        "key": "morcilla",
+        "ingredients": ["meat", "rice", "onion", "pepper", "garlic", "salt"],
+        "name": { "ru": "Морсилья", "en": "Morcilla" },
+        "description": {
+          "ru": "Испанская кровяная колбаса с рисом и перцем. Темная и ароматная.\n\n💡 Факт: морсилья — одна из древнейших колбас в мире, ее рецепт известен еще со времен Римской империи.",
+          "en": "Spanish blood sausage with rice and pepper. Dark and aromatic.\n\n💡 Fact: morcilla is one of the oldest sausages in the world, with recipes known since the Roman Empire."
+        },
+        "active": false
+      },
+      {
+        "key": "quiche",
+        "ingredients": ["flour", "egg", "cheese", "cream", "butter", "salt"],
+        "name": { "ru": "Киш", "en": "Quiche" },
+        "description": {
+          "ru": "Французский открытый пирог с заливкой из яиц и сливок. Нежный и сытный.\n\n💡 Факт: самый известный киш лорен изначально готовился БЕЗ сыра — его добавили только в 20 веке.",
+          "en": "French open pie with egg and cream filling. Tender and hearty.\n\n💡 Fact: the most famous Quiche Lorraine was originally made WITHOUT cheese — it was added only in the 20th century."
+        },
+        "active": false
+      },
+      {
+        "key": "bhakri",
+        "ingredients": ["flour", "water", "salt", "oil", "butter"],
+        "name": { "ru": "Бхакри", "en": "Bhakri" },
+        "description": {
+          "ru": "Индийская пресная лепешка из цельнозерновой муки. Плотная и сытная.\n\n💡 Факт: бхакри — традиционная еда крестьян в штате Гуджарат, ее пекут на горячей сковороде без масла.",
+          "en": "Indian unleavened flatbread made from whole wheat flour. Dense and hearty.\n\n💡 Fact: bhakri is the traditional food of peasants in Gujarat, baked on a hot griddle without oil."
+        },
+        "active": false
+      },
+      {
+        "key": "harissa",
+        "ingredients": ["pepper", "garlic", "oil", "tomato", "salt", "herbs"],
+        "name": { "ru": "Харисса", "en": "Harissa" },
+        "description": {
+          "ru": "Острая североафриканская паста из перца с чесноком и томатом.\n\n💡 Факт: харисса — национальная приправа Туниса, без нее не обходится ни одно традиционное блюдо.",
+          "en": "Spicy North African paste made from peppers with garlic and tomato.\n\n💡 Fact: harissa is the national condiment of Tunisia, no traditional dish is complete without it."
+        },
+        "active": false
+      }
   ]
 }
