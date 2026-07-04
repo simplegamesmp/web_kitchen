@@ -2499,7 +2499,7 @@
         "ru": "Традиционная еврейская запеканка из лапши с яйцом и сахаром.\n\n💡 Факт: слово «кугель» происходит от немецкого «Kugel» (шар) — изначально блюдо запекали в круглой форме.",
         "en": "Traditional Jewish noodle casserole with egg and sugar.\n\n💡 Fact: the word 'kugel' comes from the German 'Kugel' (ball) — originally the dish was baked in a round shape."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "tonkatsu",
@@ -2517,7 +2517,7 @@
         "ru": "Хрустящая свиная отбивная в панировке, обжаренная во фритюре.\n\n💡 Факт: тонкацу появилось в 1899 году в токийском ресторане как японская адаптация европейской котлеты.",
         "en": "Crispy breaded pork cutlet deep-fried to perfection.\n\n💡 Fact: tonkatsu appeared in 1899 in a Tokyo restaurant as a Japanese adaptation of the European cutlet."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "blanquette",
@@ -2535,7 +2535,7 @@
         "ru": "Классическое французское рагу из телятины в сливочном соусе. Нежное и изысканное.\n\n💡 Факт: бланкет де во (Blanquette de Veau) — любимое блюдо французского короля Людовика XIV.",
         "en": "Classic French veal stew in cream sauce. Tender and exquisite.\n\n💡 Fact: Blanquette de Veau was the favorite dish of French King Louis XIV."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "tatin",
@@ -2553,7 +2553,7 @@
         "ru": "Знаменитый французский пирог с карамелизированными яблоками, перевернутый вверх дном.\n\n💡 Факт: пирог придумали сестры Татен в 1889 году по ошибке — они забыли положить тесто вниз и просто перевернули готовый пирог.",
         "en": "Famous French pie with caramelized apples, turned upside down.\n\n💡 Fact: the pie was invented by the Tatin sisters in 1889 by mistake — they forgot to put the dough at the bottom and simply turned the finished pie over."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "naan",
@@ -2570,7 +2570,7 @@
         "ru": "Традиционная индийская лепешка из дрожжевого теста, выпекаемая в тандыре.\n\n💡 Факт: наан упоминается в записях путешественника Ибн Баттуты ещё в 1300 году нашей эры.",
         "en": "Traditional Indian flatbread made from yeast dough, baked in a tandoor.\n\n💡 Fact: naan is mentioned in the writings of traveler Ibn Battuta back in 1300 AD."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "porterhouse",
@@ -2587,7 +2587,7 @@
         "ru": "Премиальный стейк из поясничной части говядины с костью. Сочный и мраморный.\n\n💡 Факт: название «портерхаус» появилось в 1814 году в нью-йоркской таверне, где подавали этот стейк с портером.",
         "en": "Premium beef loin steak with bone. Juicy and marbled.\n\n💡 Fact: the name 'porterhouse' appeared in 1814 in a New York tavern where this steak was served with porter."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "sambar",
@@ -2605,7 +2605,7 @@
         "ru": "Южно-индийский овощной суп-карри на основе чечевицы с тамариндом.\n\n💡 Факт: самбар придумали при дворе раджи Схаджи в 17 веке, когда повар случайно добавил чечевицу в овощной суп.",
         "en": "South Indian vegetable curry soup based on lentils with tamarind.\n\n💡 Fact: sambar was invented at the court of Raja Shahaji in the 17th century when a cook accidentally added lentils to vegetable soup."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "galantine",
@@ -2622,7 +2622,7 @@
         "ru": "Французское блюдо из мяса без костей, свернутого в рулет и запеченного. Подается холодным.\n\n💡 Факт: галантин изобрел повар маркиза де Басиньи в 18 веке — слово происходит от 'galant' (изящный).",
         "en": "French dish of boneless meat rolled and baked. Served cold.\n\n💡 Fact: galantine was invented by the chef of Marquis de Bassigny in the 18th century — the word comes from 'galant' (elegant)."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "dijon",
@@ -2639,7 +2639,7 @@
         "ru": "Острый французский соус из горчицы, вина и специй. Классика бургундской кухни.\n\n💡 Факт: настоящий дижонский соус можно производить только в регионе Дижон по специальному рецепту 1856 года.",
         "en": "Spicy French sauce of mustard, wine and spices. A classic of Burgundy cuisine.\n\n💡 Fact: authentic Dijon sauce can only be produced in the Dijon region according to a special 1856 recipe."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "biscuit",
@@ -2656,7 +2656,7 @@
         "ru": "Американская пышная булочка из слоеного теста с маслом. Классика южных штатов.\n\n💡 Факт: слово «biscuit» происходит от латинского 'bis coctus' (дважды печеный) — так делали сухари для моряков.",
         "en": "American fluffy bun from puff pastry with butter. A classic of the southern states.\n\n💡 Fact: the word 'biscuit' comes from the Latin 'bis coctus' (twice baked) — so they made crackers for sailors."
       },
-      "active": false
+      "active": true
     },
     {
       "key": "casserole",
