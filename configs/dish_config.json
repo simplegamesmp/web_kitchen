@@ -458,6 +458,13 @@
         "ru": "Кофе",
         "en": "Coffee"
       }
+    },
+    {
+      "key": "mustard",
+      "name": {
+        "ru": "Горчица",
+        "en": "Mustard"
+      }
     }
   ],
   "dishes": [
